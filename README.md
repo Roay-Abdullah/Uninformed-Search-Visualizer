@@ -54,7 +54,7 @@ source venv/bin/activate          # Linux/macOS
 venv\Scripts\activate             # Windows
 ```
 
-## Grid Configuration (February 2026)
+## Grid Configuration
 
 - Size: 10 × 10
 - Start: (1, 1)
